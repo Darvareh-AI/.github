@@ -1,25 +1,33 @@
 # Darvareh
 
-Darvareh is an AI Infrastructure Platform that connects developers and businesses to leading AI models through a unified, OpenAI-compatible API.
+Darvareh is an AI Infrastructure Platform that connects software applications to the AI ecosystem through a unified, OpenAI-compatible API.
 
 ## One API for the AI ecosystem
 
-Build applications with advanced AI models including:
+Build AI-powered applications with leading models for:
 
 - Text generation
 - Image generation
 - Audio processing
 - Video generation
-- Reasoning models
+- Reasoning
 
-## Platform Features
+## Platform capabilities
 
-- Unified API access
+- Unified API access to multiple AI providers
 - OpenAI-compatible interface
 - Intelligent model routing
-- Automatic fallback
-- Usage monitoring
-- Cost optimization
+- Automatic fallback and reliability
+- Usage monitoring and cost optimization
+
+## Developers
+
+Use Darvareh to integrate AI capabilities into your applications without managing multiple APIs and providers.
+
+## Learn more
 
 Website:
 https://darvareh.ir
+
+Documentation:
+https://hub.darvareh.ir
