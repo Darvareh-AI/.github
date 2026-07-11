@@ -22,7 +22,14 @@ Build AI-powered applications with leading models for:
 
 ## Developers
 
-Use Darvareh to integrate AI capabilities into your applications without managing multiple APIs and providers.
+Integrate AI capabilities into your applications using Darvareh's OpenAI-compatible API.
+
+Works with:
+- OpenAI SDK
+- LangChain
+- LlamaIndex
+- AI Agents
+- Custom applications
 
 ## Learn more
 
